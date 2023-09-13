@@ -6,3 +6,8 @@
 ```
 https://github.com/hex-ci/smzdm_script.git
 ```
+
+### jd
+```
+https://github.com/zero205/JD_tencent_scf.git
+```
