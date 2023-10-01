@@ -11,3 +11,8 @@ https://github.com/hex-ci/smzdm_script.git
 ```
 https://github.com/zero205/JD_tencent_scf.git
 ```
+
+### 死亡笔记
+```
+https://github.com/leafTheFish/DeathNote.git
+```
